@@ -11,9 +11,9 @@ An analysis of math and reading scores for high school students in a school dist
   - ### District Summary
       If we look at the District Summary before and after the removal of the ninth grade scores from Thomas Highschool, we can see that the average scores and the percentage of       students passing the subjects decreased slightly, with the exception of Avereage Reading Score which stayed the same. Below are images of the District Summary before  and       after the recalculation.
       #### District Summary Before Recalculation
-      <img src = "https://github.com/AaronAKTX/Election_Analysis/blob/main/Resources/Elections_Results.PNG">
+      <img src = "https://github.com/AaronAKTX/School_District_Analysis/blob/main/Resources/Old_District_Summary_DF.PNG">
       #### District Summary After Recalculation
-      <img src = "https://github.com/AaronAKTX/Election_Analysis/blob/main/Resources/Elections_Results.PNG">
+      <img src = "https://github.com/AaronAKTX/School_District_Analysis/blob/main/Resources/New_District_Summary_DF.PNG">
       
 - - <img src = "https://github.com/AaronAKTX/Election_Analysis/blob/main/Resources/Elections_Results.PNG">
 
