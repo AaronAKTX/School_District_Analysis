@@ -9,13 +9,22 @@ An analysis of math and reading scores for high school students in a school dist
 
 ## Summarized Results
   - ### District Summary
-      If we look at the District Summary before and after the removal of the ninth grade scores from Thomas Highschool, we can see that the average scores and the percentage of       students passing the subjects decreased slightly, with the exception of Avereage Reading Score which stayed the same. Below are images of the District Summary before  and       after the recalculation.
+      If we look at the District Summary before and after the removal of the ninth grade scores from Thomas Highschool, we can see that the average scores and the percentage of       students passing the subjects decreased slightly, with the exception of Avereage Reading Score which stayed the same ot the tenth of a percent. Below are images of the           District Summary before and after the recalculation.
       #### District Summary Before Recalculation
-      <img src = "https://github.com/AaronAKTX/School_District_Analysis/blob/main/Resources/Old_District_Summary_DF.PNG">
+      <img src = "https://github.com/AaronAKTX/School_District_Analysis/blob/main/Resources/Old_District_Summary.PNG">
+
       #### District Summary After Recalculation
       <img src = "https://github.com/AaronAKTX/School_District_Analysis/blob/main/Resources/New_District_Summary_DF.PNG">
       
-- - <img src = "https://github.com/AaronAKTX/Election_Analysis/blob/main/Resources/Elections_Results.PNG">
+  - ### School Summary
+      The school summary shows a small change in the numbers for Thomas High School after the ninth grade scores were removed. The results can be seen in the before and after         images below. Note that all other schools are the same in both images, and Thomas High School's data is just slightly different after the recalculation.
+      #### School Summary Before Recalculation
+      <img src = "https://github.com/AaronAKTX/School_District_Analysis/blob/main/Resources/Old_District_Summary.PNG">
+
+      #### School Summary After Recalculation
+      <img src = "https://github.com/AaronAKTX/School_District_Analysis/blob/main/Resources/New_District_Summary_DF.PNG">
+      
+
 
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
